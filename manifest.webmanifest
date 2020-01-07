@@ -1,7 +1,7 @@
 {
   "background_color": "purple",
   "description": "La tienda de los gatitos mas hermosos.",
-  "display": "fullscreen",
+  "display": "standalone",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
@@ -11,5 +11,5 @@
   ],
   "name": "Los Gatitos mas hermosos",
   "short_name": "Sincro",
-  "start_url": "/Desarrollo-web-profesional/index.html"
+  "start_url": "/StoreCats/index.html"
 }
