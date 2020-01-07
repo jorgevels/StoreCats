@@ -1,9 +1,7 @@
 if ("serviceWorker" in navigator) {
-  navigator.serviceWorker
-    .register("/Desarrollo-web-profesional/sw.js")
-    .then(function() {
-      console.log("Service Worker Registrado");
-    });
+  navigator.serviceWorker.register("/StoreCats/sw.js").then(function() {
+    console.log("Service Worker Registrado");
+  });
 }
 
 // Código para manejar la solicitud de instalación en el escritorio
