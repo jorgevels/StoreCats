@@ -1,12 +1,12 @@
-# Merquemos
+# StoreCats
 
-_No mas listas en papel para ir hacer tu mercado o compras, con esta PWA podras de una majera facil y practica hacer tus listas de compras_
+_Tienda Online de Gatitos, con esta PWA podras implementar una tienda de mascotas_
 
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** https://jorgevels.github.io/Merquemos/.
+Mira **Deployment** https://jorgevels.github.io/StoreCats/.
 
 ### Pre-requisitos 📋
 
@@ -19,13 +19,9 @@ Lo puedes instalar en tu ordenador o cualquier dispositivo movil, solo necesitas
 
 ### Instalación en tu ordenador🔧
 
-Al ingresar el link en tu navegador se desplegara la vista principal, esta en la parte superior tiene un boton de color amarillo el cual te permite con un solo click instalar la PWA.
+Al ingresar el link en tu navegador en la barra de navegacion obtendras un pequeño circulo con el simbolo de mas, al dar click podras iniciar la instalacion.
 
 Al dar click sobre este boton se desplegara un pequeño modal, que te muestra un mensaje y te da la opcion de agregar a la pantalla principal o cancelar.
-
-_Si instalas la PWA este boton de color amarillo no lo volveras a ver._
-
-Si das click en el boton de cancelar la instalacion se cancelara y el boton de color amarillo seguira apareciendo en la pantalla principal
 
 ### Instalación en tu movil 🔧
 
@@ -53,7 +49,7 @@ _Version 0.1_
 
 ## Autores ✒️
 
-- **Jorge Velasquez** - \_ \_ - [jorgevels](https://github.com/villanuevand)
+- **Jorge Velasquez** - \_ \_ - [jorgevels](https://github.com/jorgevels)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto.
 
