@@ -19,7 +19,10 @@
   <meta name="theme-color" content="#ffffff">
 
   <link href="style.css" rel="stylesheet">
+  <link href="style.css" rel="./Loading/loadin.css">
   <script src="index.js" defer></script>
+
+
   <link rel="manifest" href="manifest.webmanifest">
 
 
@@ -27,7 +30,9 @@
   <title>StoreCats</title>
 </head>
 
+
 <body>
+
   <!--Aqui inicia el vavbar-->
   <nav class="fadeInDown">
     <a href="index.html"><img src="./images/storecatsr.png" alt="Logo"></a>
@@ -36,13 +41,26 @@
       <li><a href="./components/producto.html">Producto</a></li>
       <li><a href="#menciones">Mensiones</a></li>
     </ul>
+
   </nav>
+
 
   <!-- <button class="add-button">Agregar a la pantalla de inicio</button> -->
   <!-- Aqui finaliza el vavbar -->
 
   <!-- Aqui inicia el main -->
   <section class="hero">
+    <div class="lds-roller">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
     <h1>
       Son Animales increíbles, dicen que atraen las buenas energías
       y son muy independientes.
@@ -168,5 +186,7 @@
 
 
 </body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="./js/loadin.js"></script>
 
 </html>
